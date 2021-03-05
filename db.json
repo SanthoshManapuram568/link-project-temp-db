@@ -1,28 +1,11 @@
 {
   "register": [
-    {
-      "id": 1
-    },
-    {
+   {
       "name": "santhosh",
       "password": "123456",
       "email": "sk@gmail.com",
       "phone": "7780731077",
-      "id": 2
-    },
-    {
-      "name": "santhoshk",
-      "password": "123456",
-      "email": "k@gmail.com",
-      "phone": "7780731077",
-      "id": 3
-    },
-    {
-      "name": "kiran",
-      "password": "123456",
-      "email": "k@gmail.com",
-      "phone": "9876543210",
-      "id": 4
+      "id": 1
     }
   ]
 }
